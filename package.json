@@ -1,0 +1,31 @@
+{
+  "name": "namaste-react",
+  "version": "1.0.0",
+  "description": "This is a react course practice by Akshay Sainin",
+  "default": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pinkygoyal016/NamasteReact.git"
+  },
+  "keywords": [
+    "react",
+    "namaste",
+    "react"
+  ],
+  "author": "Pinky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pinkygoyal016/NamasteReact/issues"
+  },
+  "homepage": "https://github.com/pinkygoyal016/NamasteReact#readme",
+  "devDependencies": {
+    "parcel": "^2.16.1"
+  },
+  "dependencies": {
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  }
+}
