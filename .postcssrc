@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 {
   "plugins": {
     "@tailwindcss/postcss": {}
   }
+=======
+{
+  "plugins": {
+    "@tailwindcss/postcss": {}
+  }
+>>>>>>> 59637fbf29728b960f9eca8e88765b32480d391b
 }

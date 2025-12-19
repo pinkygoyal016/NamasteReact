@@ -1,4 +1,10 @@
+<<<<<<< HEAD
 /node_modules
 /dist
 .parcel-cache
+=======
+/node_modules
+/dist
+.parcel-cache
+>>>>>>> 59637fbf29728b960f9eca8e88765b32480d391b
 /coverage

@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 @import "tailwindcss";
 /* .header{
     justify-content:space-between;
@@ -76,3 +77,83 @@
     height: auto;
    border: 1px solid black;
 } */
+=======
+@import "tailwindcss";
+/* .header{
+    justify-content:space-between;
+    display: flex;
+     border:0.5px solid black
+   
+}
+.logo{
+    width: 100px;
+}
+.nav-container{
+    float:right;
+    }
+.nav-container > ul{
+    margin-top: auto;
+    margin-left: auto;
+    display: flex;
+    list-style-type: none;
+    font-size: 24px;
+}
+.nav-container > ul>li{
+    padding: 10px;
+    margin: 10px;
+}
+.card-details{
+    width:200px;
+    background-color: ghostwhite;
+    padding: 5px;
+    margin: 5px;
+}
+.card-details:hover{
+        cursor: pointer;
+         border: 1px solid black;
+}
+.search{
+    padding: 10px;
+}
+.res-logo{
+       width:200px;
+       height:150px;
+}
+.res-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+.filterbtn{
+    margin-top: 5px;
+    padding-top: 5px;
+}
+.shimmer-container{
+    display: flex;
+    flex-wrap: wrap;
+   
+}
+.shimmer-card{
+     margin: 20px;
+    padding: 20px;
+    width:200px;
+    height: 300px;
+    background-color: #f0f0f0;
+   
+}
+.login-btn{
+    margin-top: 5px;
+    margin-right: 5px;
+    padding: 1px 20px;
+    cursor: pointer;
+}
+.filter{
+    display: flex;
+}
+.about{
+     margin: 20px;
+    padding: 20px;
+    width:auto;
+    height: auto;
+   border: 1px solid black;
+} */
+>>>>>>> 59637fbf29728b960f9eca8e88765b32480d391b
